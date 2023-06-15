@@ -13,5 +13,5 @@ appVersion: "1.0"
 
 dependencies:
 - name: tigera-operator
-  version: v3.24.1
-  repository: https://docs.projectcalico.org/charts
+  version: v3.26.0
+  repository: https://projectcalico.docs.tigera.io/charts
