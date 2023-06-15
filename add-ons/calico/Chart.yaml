@@ -15,3 +15,7 @@ dependencies:
 - name: tigera-operator
   version: v3.26.0
   repository: https://projectcalico.docs.tigera.io/charts
+
+syncPolicy:
+    syncOptions:
+    - ServerSideApply=true
